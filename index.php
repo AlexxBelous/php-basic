@@ -1,3 +1,3 @@
 <?php
-
-echo 'Start project';
+require 'functions.php';
+require 'app/views/index.tpl.php';
